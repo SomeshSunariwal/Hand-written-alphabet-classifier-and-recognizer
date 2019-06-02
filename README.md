@@ -1,4 +1,4 @@
-# Hand-written-alphabet-classifier-and-recognizer
+# Hand written alphabet classifier and recognizer
 
 This is hand wriiter alphabet classifier and and recongizer
 its Contain two folder 
